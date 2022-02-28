@@ -9,7 +9,7 @@ PHP: Versão 7 ou acima | oizumi-junho/upload-php: Qualquer versão
 ```
 
     "require": {
-        "oizumi-junho/upload-php": "*.*.*",
+        "oizumi-junho/upload-php": "dev-master",
         "php": ">=7.0"
     }
 
