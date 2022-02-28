@@ -1,0 +1,23 @@
+{
+    "name": "oizumi-junho/upload-php",
+    "description": "Criado para facilitar o upload de arquivos",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [{
+        "name": "Oizumi Junho",
+        "email": "oizumijunho@gmail.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "OizumiJunho\\Upload\\": "src/Upload"
+        },
+        "files": [
+            "src/Upload/Config.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
